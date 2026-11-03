@@ -258,13 +258,13 @@ After opening the report, the following outputs are available:
 
 
 ## Academic page
-<img src="icons/Academic page.png">
+<img src="Icons/Academic page.png">
 
 ---
 
 ## Behavioral page
 
-<img src="icons/Behavioral page.png">
+<img src="Icons/Behavioral page.png">
 
 ## 📄 License
 
